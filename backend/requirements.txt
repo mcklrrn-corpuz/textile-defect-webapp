@@ -8,3 +8,4 @@ pillow==10.3.0
 opencv-python==4.13.0.92
 
 numpy==1.26.4
+gunicorn==21.2.0
